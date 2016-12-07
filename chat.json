@@ -1,0 +1,15 @@
+{
+    "messages": [{
+            "username": "Jason",
+            "message": "Hey, did you know our chat messages are saved?"
+        },
+        {
+            "username": "Geoff",
+            "message": "What? So if I refresh the page the messages are still there?"
+        },
+        {
+            "username": "Jason",
+            "message": "Yeah, try it!"
+        }
+    ]
+}
